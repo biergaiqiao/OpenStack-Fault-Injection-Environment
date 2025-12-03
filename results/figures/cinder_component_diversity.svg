@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<text x="500.0" y="30" text-anchor="middle" font-size="18" font-family="Arial" fill="#111">Cinder components by fault-type diversity (top 10)</text>
+<text x="500.0" y="580" text-anchor="middle" font-size="14" font-family="Arial" fill="#111">Component</text>
+<text x="20" y="300.0" text-anchor="middle" font-size="14" font-family="Arial" fill="#111" transform="rotate(-90 20,300.0)">Distinct fault types</text>
+<line x1="80" y1="520" x2="920" y2="520" stroke="#444"/>
+<line x1="80" y1="80" x2="80" y2="520" stroke="#444"/>
+<rect x="88.4" y="80.0" width="67.2" height="440.0" fill="#4C72B0"/>
+<text x="122.0" y="535" transform="rotate(-45 122.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/volume/flows/manager/create_volume.py</text>
+<text x="122.0" y="75.0" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">9</text>
+<rect x="172.4" y="177.77777777777783" width="67.2" height="342.2222222222222" fill="#4C72B0"/>
+<text x="206.0" y="535" transform="rotate(-45 206.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/db/sqlalchemy/api.py</text>
+<text x="206.0" y="172.77777777777783" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">7</text>
+<rect x="256.4" y="177.77777777777783" width="67.2" height="342.2222222222222" fill="#4C72B0"/>
+<text x="290.0" y="535" transform="rotate(-45 290.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/image/image_utils.py</text>
+<text x="290.0" y="172.77777777777783" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">7</text>
+<rect x="340.4" y="226.66666666666669" width="67.2" height="293.3333333333333" fill="#4C72B0"/>
+<text x="374.0" y="535" transform="rotate(-45 374.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/volume/api.py</text>
+<text x="374.0" y="221.66666666666669" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+<rect x="424.4" y="226.66666666666669" width="67.2" height="293.3333333333333" fill="#4C72B0"/>
+<text x="458.0" y="535" transform="rotate(-45 458.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/volume/drivers/lvm.py</text>
+<text x="458.0" y="221.66666666666669" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+<rect x="508.4" y="226.66666666666669" width="67.2" height="293.3333333333333" fill="#4C72B0"/>
+<text x="542.0" y="535" transform="rotate(-45 542.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/api/v2/volumes.py</text>
+<text x="542.0" y="221.66666666666669" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+<rect x="592.4" y="275.55555555555554" width="67.2" height="244.44444444444443" fill="#4C72B0"/>
+<text x="626.0" y="535" transform="rotate(-45 626.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/objects/volume.py</text>
+<text x="626.0" y="270.55555555555554" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">5</text>
+<rect x="676.4" y="275.55555555555554" width="67.2" height="244.44444444444443" fill="#4C72B0"/>
+<text x="710.0" y="535" transform="rotate(-45 710.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/volume/manager.py</text>
+<text x="710.0" y="270.55555555555554" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">5</text>
+<rect x="760.4" y="275.55555555555554" width="67.2" height="244.44444444444443" fill="#4C72B0"/>
+<text x="794.0" y="535" transform="rotate(-45 794.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/volume/flows/api/create_volume.py</text>
+<text x="794.0" y="270.55555555555554" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">5</text>
+<rect x="844.4" y="324.44444444444446" width="67.2" height="195.55555555555554" fill="#4C72B0"/>
+<text x="878.0" y="535" transform="rotate(-45 878.0,535)" font-size="10" text-anchor="end" font-family="Arial">/cinder/scheduler/filter_scheduler.py</text>
+<text x="878.0" y="319.44444444444446" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">4</text>
+</svg>

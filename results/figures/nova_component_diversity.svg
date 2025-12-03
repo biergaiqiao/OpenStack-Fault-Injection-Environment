@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<text x="500.0" y="30" text-anchor="middle" font-size="18" font-family="Arial" fill="#111">Nova components by fault-type diversity (top 10)</text>
+<text x="500.0" y="580" text-anchor="middle" font-size="14" font-family="Arial" fill="#111">Component</text>
+<text x="20" y="300.0" text-anchor="middle" font-size="14" font-family="Arial" fill="#111" transform="rotate(-90 20,300.0)">Distinct fault types</text>
+<line x1="80" y1="520" x2="920" y2="520" stroke="#444"/>
+<line x1="80" y1="80" x2="80" y2="520" stroke="#444"/>
+<rect x="88.4" y="80.0" width="67.2" height="440.0" fill="#4C72B0"/>
+<text x="122.0" y="535" transform="rotate(-45 122.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/virt/libvirt/driver.py</text>
+<text x="122.0" y="75.0" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">17</text>
+<rect x="172.4" y="105.88235294117646" width="67.2" height="414.11764705882354" fill="#4C72B0"/>
+<text x="206.0" y="535" transform="rotate(-45 206.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/compute/api.py</text>
+<text x="206.0" y="100.88235294117646" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">16</text>
+<rect x="256.4" y="235.29411764705884" width="67.2" height="284.70588235294116" fill="#4C72B0"/>
+<text x="290.0" y="535" transform="rotate(-45 290.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/network/neutronv2/api.py</text>
+<text x="290.0" y="230.29411764705884" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">11</text>
+<rect x="340.4" y="261.1764705882353" width="67.2" height="258.8235294117647" fill="#4C72B0"/>
+<text x="374.0" y="535" transform="rotate(-45 374.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/api/openstack/compute/servers.py</text>
+<text x="374.0" y="256.1764705882353" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">10</text>
+<rect x="424.4" y="287.05882352941177" width="67.2" height="232.94117647058823" fill="#4C72B0"/>
+<text x="458.0" y="535" transform="rotate(-45 458.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/compute/manager.py</text>
+<text x="458.0" y="282.05882352941177" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">9</text>
+<rect x="508.4" y="287.05882352941177" width="67.2" height="232.94117647058823" fill="#4C72B0"/>
+<text x="542.0" y="535" transform="rotate(-45 542.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/objects/request_spec.py</text>
+<text x="542.0" y="282.05882352941177" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">9</text>
+<rect x="592.4" y="364.70588235294116" width="67.2" height="155.29411764705884" fill="#4C72B0"/>
+<text x="626.0" y="535" transform="rotate(-45 626.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/objects/instance.py</text>
+<text x="626.0" y="359.70588235294116" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+<rect x="676.4" y="364.70588235294116" width="67.2" height="155.29411764705884" fill="#4C72B0"/>
+<text x="710.0" y="535" transform="rotate(-45 710.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/virt/libvirt/host.py</text>
+<text x="710.0" y="359.70588235294116" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+<rect x="760.4" y="364.70588235294116" width="67.2" height="155.29411764705884" fill="#4C72B0"/>
+<text x="794.0" y="535" transform="rotate(-45 794.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/block_device.py</text>
+<text x="794.0" y="359.70588235294116" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+<rect x="844.4" y="364.70588235294116" width="67.2" height="155.29411764705884" fill="#4C72B0"/>
+<text x="878.0" y="535" transform="rotate(-45 878.0,535)" font-size="10" text-anchor="end" font-family="Arial">/nova/db/sqlalchemy/api.py</text>
+<text x="878.0" y="359.70588235294116" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">6</text>
+</svg>
