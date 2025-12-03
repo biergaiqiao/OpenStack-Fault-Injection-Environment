@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<text x="500.0" y="30" text-anchor="middle" font-size="18" font-family="Arial" fill="#111">Cinder fault-type distribution</text>
+<text x="500.0" y="580" text-anchor="middle" font-size="14" font-family="Arial" fill="#111">Fault type</text>
+<text x="20" y="300.0" text-anchor="middle" font-size="14" font-family="Arial" fill="#111" transform="rotate(-90 20,300.0)">Count</text>
+<line x1="80" y1="520" x2="920" y2="520" stroke="#444"/>
+<line x1="80" y1="80" x2="80" y2="520" stroke="#444"/>
+<rect x="87.0" y="80.0" width="56.0" height="440.0" fill="#4C72B0"/>
+<text x="115.0" y="535" transform="rotate(-45 115.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_WRONG_RETURN_VALUE-VOLUME</text>
+<text x="115.0" y="75.0" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">81</text>
+<rect x="157.0" y="259.25925925925924" width="56.0" height="260.74074074074076" fill="#4C72B0"/>
+<text x="185.0" y="535" transform="rotate(-45 185.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_MISSING_FUNCTION_CALL-VOLUME</text>
+<text x="185.0" y="254.25925925925924" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">48</text>
+<rect x="227.0" y="324.44444444444446" width="56.0" height="195.55555555555557" fill="#4C72B0"/>
+<text x="255.0" y="535" transform="rotate(-45 255.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_THROW_EXCEPTION-VOLUME</text>
+<text x="255.0" y="319.44444444444446" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">36</text>
+<rect x="297.0" y="329.87654320987656" width="56.0" height="190.12345679012347" fill="#4C72B0"/>
+<text x="325.0" y="535" transform="rotate(-45 325.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_WRONG_PARAMETERS-VOLUME</text>
+<text x="325.0" y="324.87654320987656" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">35</text>
+<rect x="367.0" y="335.30864197530866" width="56.0" height="184.69135802469137" fill="#4C72B0"/>
+<text x="395.0" y="535" transform="rotate(-45 395.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_MISSING_PARAMETERS-VOLUME</text>
+<text x="395.0" y="330.30864197530866" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">34</text>
+<rect x="437.0" y="454.8148148148148" width="56.0" height="65.18518518518519" fill="#4C72B0"/>
+<text x="465.0" y="535" transform="rotate(-45 465.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_WRONG_RETURN_VALUE-IMAGE</text>
+<text x="465.0" y="449.8148148148148" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">12</text>
+<rect x="507.0" y="481.9753086419753" width="56.0" height="38.02469135802469" fill="#4C72B0"/>
+<text x="535.0" y="535" transform="rotate(-45 535.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_MISSING_FUNCTION_CALL-IMAGE</text>
+<text x="535.0" y="476.9753086419753" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">7</text>
+<rect x="577.0" y="492.8395061728395" width="56.0" height="27.160493827160494" fill="#4C72B0"/>
+<text x="605.0" y="535" transform="rotate(-45 605.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_WRONG_PARAMETERS-IMAGE</text>
+<text x="605.0" y="487.8395061728395" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">5</text>
+<rect x="647.0" y="498.2716049382716" width="56.0" height="21.728395061728396" fill="#4C72B0"/>
+<text x="675.0" y="535" transform="rotate(-45 675.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_MISSING_PARAMETERS-IMAGE</text>
+<text x="675.0" y="493.2716049382716" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">4</text>
+<rect x="717.0" y="498.2716049382716" width="56.0" height="21.728395061728396" fill="#4C72B0"/>
+<text x="745.0" y="535" transform="rotate(-45 745.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_THROW_EXCEPTION-IMAGE</text>
+<text x="745.0" y="493.2716049382716" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">4</text>
+<rect x="787.0" y="509.1358024691358" width="56.0" height="10.864197530864198" fill="#4C72B0"/>
+<text x="815.0" y="535" transform="rotate(-45 815.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_WRONG_RETURN_VALUE-INSTANCE</text>
+<text x="815.0" y="504.1358024691358" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">2</text>
+<rect x="857.0" y="514.5679012345679" width="56.0" height="5.432098765432099" fill="#4C72B0"/>
+<text x="885.0" y="535" transform="rotate(-45 885.0,535)" font-size="10" text-anchor="end" font-family="Arial">OPENSTACK_WRONG_RETURN_VALUE-RPC</text>
+<text x="885.0" y="509.5679012345679" text-anchor="middle" font-size="10" font-family="Arial" fill="#111">1</text>
+</svg>
